@@ -1,5 +1,4 @@
 <div style="background-color: black;">
-    <img src="https://images.unsplash.com/photo-1467269204594-9661b134dd2b?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
     <h1 style="font-size: 2.5rem;color: #1f6feb;">Königreich Bayern UserScript</h1>
     <h3 style="font-size: 1.5rem;letter-spacing: 0.1rem; line-height: 1.75rem; color: white;">This UserScript will replace every occurrence of "Bayern" with "Königreich Bayern"
     and "Söder" with "König Ludwig II von Bayern". I don't know why I made this script, 
@@ -23,4 +22,5 @@
     <h4 style="font-size: 1.25rem; color: white;">UserScripts</h4>
     <p style="font-size: 1rem; color: white;">In UserScripts for Safari you have to first configure a folder (iCloud folder, if you want the scripts
     on all your devices) and add the .js file into that folder.</p>
+    <img src="https://images.unsplash.com/photo-1467269204594-9661b134dd2b?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 </div>
