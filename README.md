@@ -6,7 +6,7 @@
     <br><br>
     <h2 style="font-size: 2rem;color: white;">Installation</h2>
     <p style="font-size: 1rem; color: white;">To install this script you have to use a UserScript client for your browser.
-    Generlly you can use any of these:</p>
+    In general you can use any of these:</p>
     <ul>
         <li style="font-size: 1rem; color: white;">Chrome/Chromium: e.g. <a style="font-size: 1rem; text-decoration: underline;color: #1f6feb;" href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj0hYO4lPaCAxUcSfEDHQoBBiwQFnoECBEQAQ&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Ftampermonkey%2Fdhdgffkkebhmkfjojejmpbldmpobfkfo%3Fhl%3Dde&usg=AOvVaw1KCNmzU519kbvSBnzqfs1k&opi=89978449">Tampermponkey</a></li>
         <li style="font-size: 1rem; color: white;">Safari: <a style="font-size: 1rem; text-decoration: underline;color: #1f6feb;" href="https://apps.apple.com/us/app/userscripts/id1463298887">Userscripts</a></li>
