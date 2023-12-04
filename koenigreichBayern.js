@@ -5,7 +5,7 @@
 // @version     1.0.0
 // @license     free
 // @author      Boss Of Trees
-// @homepage	  https://github.com/Boss-of-Trees/Bayern-Usercript
+// @homepage	https://github.com/Boss-of-Trees/Bayern-Usercript
 // @encoding    utf-8
 //
 // @namespace   Boss Of Trees
